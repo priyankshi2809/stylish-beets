@@ -86,11 +86,11 @@ dt {
   font-weight: bold;
 }
 
+small {
+  font-size: .8rem;
+}
+
 aside ul {
   font-size: .8rem;
   list-style-type: circle;
-}
-
-small {
-  font-size: .8rem;
 }
